@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-cPJVYMd)
 Django ORM Standalone
 =====================
 
@@ -12,6 +13,11 @@ With this project template you can write regular python scripts and use Django's
 -------------------
 - Last tested successfully with Python 3.10.4 and Django 5.0.6
 - Create venv and pip install django to import the required modules.
+
+**Demonstration**
+------------------
+<img width="1147" height="731" alt="image" src="https://github.com/user-attachments/assets/749bed3c-7acd-452f-a825-e810339e40e0" />
+
 
 :open_file_folder: File Structure
 ---------------------------------
