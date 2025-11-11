@@ -14,6 +14,11 @@ With this project template you can write regular python scripts and use Django's
 - Last tested successfully with Python 3.10.4 and Django 5.0.6
 - Create venv and pip install django to import the required modules.
 
+**Demonstration**
+------------------
+<img width="1147" height="731" alt="image" src="https://github.com/user-attachments/assets/749bed3c-7acd-452f-a825-e810339e40e0" />
+
+
 :open_file_folder: File Structure
 ---------------------------------
 ```
